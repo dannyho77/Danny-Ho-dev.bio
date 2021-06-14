@@ -14,10 +14,10 @@ The site applies the "Prologue" template from HTML5 UP, with adjustments made vi
 
 ### left-side interactive module
 - navigate different sections of the site via links in the side module
-- all social links (github, linkedin, angellist) included at bottom of side module
+- all social links (github, linkedin, angellist) are included separately in the side module
 
 ### Portfolio Section
-- lists and details infromation about all recent projects, including technologies used and core functionality
+- lists and details information about all recent projects, including technologies used and core app functionality
 
 ### About Me Section
 - includes a short blurb about Danny Ho, as well as specific skills/technologies learned
