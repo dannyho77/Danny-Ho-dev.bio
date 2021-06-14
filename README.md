@@ -2,12 +2,9 @@
 [Live Link](https://dannyho77.github.io/Danny-Ho-dev.bio/)
 
 ## Background
-Cineflix is a Netflix clone, built from scratch, where users can watch and enjoy movie trailers/clips.
-The app organizes movies by distinct genre categories.
-Logged in users can add and remove movies to/from a personal collection.
-Users may also search for movies by title.  
+This is the personal website for Danny Ho. The site outlines and details background information (including resume, github, linkedin, and angellist links), recent projects, and contanct information.
 
-Cineflix utilizes a ruby on rails backend to provide a framework for core app data, such as individual user data, movie and media information, genre data, and CRUD functionality for adding and removing movies to/from a user's personal collection. PostgreSQL is used to query/interact with the database. On the frontend, React/Redux is implemented to connect the backend data to a clean and intuitive user interface. For example, there are dedicated 'genre-show' pages that only show movies in a specific genre, as well as a dynamic 'my list' page, showing a users saved movies. Lastly, Amazon Web Services (S3) is used as server-side storage to house multimedia files related to all movies.
+The site applies the "Prologue" template from HTML5 UP, with adjustments made via HTML and CSS.
 
 ## Technologies
 - HTML 5
@@ -15,5 +12,12 @@ Cineflix utilizes a ruby on rails backend to provide a framework for core app da
 
 ## Features
 
-### User Auth
-- Users can 
+### left-side interactive module
+- navigate different sections of the site via links in the side module
+- all social links (github, linkedin, angellist) included at bottom of side module
+
+### Portfolio Section
+- lists and details infromation about all recent projects, including technologies used and core functionality
+
+### About Me Section
+- includes a short blurb about Danny Ho, as well as specific skills/technologies learned
